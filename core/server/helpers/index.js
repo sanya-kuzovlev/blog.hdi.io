@@ -17,8 +17,6 @@ var downsize        = require('downsize'),
     scriptTemplate  = _.template('<script src="<%= source %>?v=<%= version %>"></script>'),
     isProduction    = process.env.NODE_ENV === 'production',
 
-    // moment.lang('ru');
-
     coreHelpers     = {},
     registerHelpers,
 
@@ -33,6 +31,8 @@ var downsize        = require('downsize'),
             'ghost-dev.js'
         ]
     };
+
+moment.lang('ru');
 
 if (!isProduction) {
     hbs.handlebars.logger.level = 0;
