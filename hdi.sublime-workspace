@@ -1,0 +1,1459 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"kend",
+				"kendo-ui"
+			],
+			[
+				"bo",
+				"bower_components"
+			],
+			[
+				"users",
+				"users"
+			],
+			[
+				"$lo",
+				"$log	AngularJS"
+			],
+			[
+				"sh",
+				"schemaKey"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"Use",
+				"Users"
+			],
+			[
+				"au",
+				"authenticated"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"con",
+				"console.log(message);"
+			],
+			[
+				"Deps",
+				"Deps.autorun	Meteor: Deps.autorun(runFunc)"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background	background-repeat: r/r-x/r-y/n-r"
+			],
+			[
+				"ba",
+				"background	background-image: url"
+			],
+			[
+				"po",
+				"position	position: type"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"repe",
+				"background-repeat"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"dra",
+				"draw"
+			],
+			[
+				"set",
+				"setAttrs"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"pa",
+				"parseInt"
+			],
+			[
+				"bg",
+				"bg_layer"
+			],
+			[
+				"tex",
+				"text	text-shadow: color-hex x y blur"
+			],
+			[
+				"data",
+				"dataUrl"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"rotate",
+				"rotateDeg"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"get",
+				"getWidth"
+			],
+			[
+				"mu",
+				"mousedown"
+			],
+			[
+				"bor",
+				"border	border-right-color: color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".jshintrc",
+			"settings":
+			{
+				"buffer_size": 5691,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 560 files for \"kendo.\"\n\n/Users/sanya/Documents/Projects/Sokol/sokol/packages/contrib/mean-admin/app.js:\n   30      });\n   31  \n   32:     Admin.angularDependencies(['ngClipboard', 'ngTable', 'kendo.directives']);\n   33  \n   34      // We enable routing. By default the Package Object is passed to the routes\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 337,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "packages/contrib/mean-admin/app.js",
+			"settings":
+			{
+				"buffer_size": 1080,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "packages/contrib/mean-admin/public/controllers/users.js",
+			"settings":
+			{
+				"buffer_size": 6099,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/assets.json",
+			"settings":
+			{
+				"buffer_size": 1257,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git ci",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git ",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git sho",
+				"Git: Show Current File"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Git co",
+				"Git: Commit"
+			],
+			[
+				"Gi",
+				"Git: Status"
+			],
+			[
+				"gi",
+				"Git: Commit"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 718.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sanya/Documents/Projects/Sokol/sokol",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/bower_components",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/contrib",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/contrib/mean-admin",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/contrib/mean-admin/public"
+	],
+	"file_history":
+	[
+		"/Users/sanya/Documents/Projects/Sokol/sokol/bower.json",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/contrib/mean-admin/public/views/users.html",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/bower_components/angular-kendo-directives/angular-kendo.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/contrib/mean-admin/public/services/users.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/contrib/mean-admin/app.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/bower_components/angular-kendo-ui/build/angular-kendo.min.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/bower_components/kendo-ui/bower.json",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/config/assets.json",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/users/server/models/user.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/contrib/mean-admin/public/controllers/users.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/system/server/views/includes/head.html",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/system/server/views/includes/foot.html",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/contrib/mean-admin/public/assets/css/admin.css",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/contrib/mean-admin/public/directives/editable.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/bootstraptable/public/assets/css/bootstraptable.css",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/sklchaika/app.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/sklchaika/public/assets/css/sklchaika.css",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/angular-ng-table/app.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/angular-ng-table/public/assets/css/angularNgTable.css",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/sklchaika/public/assets/css/bootstrap-table.css",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/bootstraptable/public/assets/js/bootstraptable.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/bootstraptable/app.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/sklchaika/public/assets/js/bootstrap-table.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/system/public/assets/css/bootstrap-table.css",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/system/public/views/index.html",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/sklchaika/public/routes/sklchaika.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/contrib/mean-admin/public/views/modules.html",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/contrib/mean-admin/public/views/index.html",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/system/public/views/header.html",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/Gruntfile.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/contrib/mean-admin/public/services/modules.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/users/server/tests/users.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/sklchaika/README.md",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/system/public/init.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/system/public/services/interceptor.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/system/public/services/global.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/chaika/public/assets/css/chaika.css",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/chaika/app.js",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/articles/public/assets/css/articles.css",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/chaika/public/views/index.html",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/articles/public/views/view.html",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/packages/articles/public/views/create.html",
+		"/Users/sanya/Documents/Projects/Sokol/sokol/pp.sublime-project",
+		"/Users/sanya/Documents/Projects/Learning/learning.sublime-project",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/client/top.html",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/client/item.html",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/packages/collectionFS/examples/filemanager/view.html",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/client/item_editor.html",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/client/basket.html",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/he.html",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/client/catalog.html",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/he.js",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/packages/collectionFS/examples/filemanager/model.js",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/he.css",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/client/basket.js",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/client/top.js",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/client/manufactury.js",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/client/item_editor.js",
+		"/Users/sanya/Documents/Projects/Pinkypink/he/client/catalog.js",
+		"/Users/sanya/Documents/Projects/HappyEND/he/client/item.js",
+		"/Users/sanya/Documents/Projects/HappyEND/he/he.js",
+		"/Users/sanya/Documents/Projects/HappyEND/he/packages/collectionFS/examples/filemanager/server/server.js",
+		"/Users/sanya/Documents/Projects/HappyEND/he/packages/collectionFS/examples/filemanager/model.js",
+		"/Users/sanya/Documents/Projects/HappyEND/he/packages/collectionFS/examples/filemanager/client/client.js",
+		"/Users/sanya/Documents/Projects/HappyEND/he/packages/collectionFS/collectionFS_filehandlers.js",
+		"/Users/sanya/Documents/Projects/HappyEND/he/packages/collectionFS/collectionFS_server.js",
+		"/Users/sanya/Documents/Projects/HappyEND/he/client/vip.html",
+		"/Users/sanya/Documents/Projects/HappyEND/he/packages/paginator/lib/client/paginationTemplates.html",
+		"/Users/sanya/Documents/Projects/HappyEND/he/.meteor/local/build/static_cacheable/client/catalog.js",
+		"/Users/sanya/Documents/Projects/HappyEND/he/.meteor/local/build/static_cacheable/packages/observatory/mars/template.observatory.js",
+		"/Users/sanya/Documents/Projects/HappyEND/monke.sublime-project",
+		"/Users/alex_kuzovlev/Documents/Проекты/HappyEND/monke/app.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/HappyEND/monke/client/css/app.styl",
+		"/Users/alex_kuzovlev/Documents/Проекты/HappyEND/monke/client/templates/chat/message.html",
+		"/Users/alex_kuzovlev/Documents/Проекты/HappyEND/monke.sublime-workspace",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/monke/monke.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/monke/client/css/app.css",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/monke/client/css/app.styl",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/sftp-config.json",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/mongo_schemas/user_p.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/mongo_schemas/message.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/monke.sublime-workspace",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/monke.sublime-project",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/v/index.jade",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/templates/home/home.html",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/js/collections/messages.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/js/models/message/message.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/js/views/home/home.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/routing.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/v/login.jade",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/v/register.jade",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/css/style.css",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/templates/user/list.html",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/js/views/user/info.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/js/views/user/list.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/js/router.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/js/app.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/js/main.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/monke.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/js/collections/messages",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/js/models/message/message",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/js/views/user/user_info.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/v/p/footer.jade",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/v/dashlet.jade",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/v/p/dashlet.jade",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/v/p/login.jade",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/v/p/content.jade",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/v/p/header.jade",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/v/layout.jade",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/v/p/layout.jade",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/message_schema.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/user_schema.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/mongo_schemas/user.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/main.js",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/public/js/views/user/list",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/mongo_schemas/user",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/v/layout",
+		"/Users/alex_kuzovlev/Documents/Проекты/Monke/views/index.jade",
+		"/Users/alex_kuzovlev/Documents/Проекты/JSteak/sftp-config.json",
+		"/Users/alex_kuzovlev/Documents/Проекты/Sugar-CRM/moscow-rim/test.html",
+		"/Users/alex_kuzovlev/Sites/node/lastile/views/partials/metrika.html",
+		"/Users/alex_kuzovlev/Sites/node/lastile/views/layout.jade",
+		"/Users/alex_kuzovlev/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/alex_kuzovlev/Sites/node/lastile/views/partials/menu.jade",
+		"/Users/alex_kuzovlev/Sites/node/lastile/views/studiya.jade",
+		"/Users/alex_kuzovlev/Sites/node/lastile/public/css/bootstrap.css",
+		"/Users/alex_kuzovlev/Sites/node/lastile/public/css/lightbox.css",
+		"/Users/alex_kuzovlev/Sites/node/lastile/public/js/lightbox.js"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+			"/Users/sanya/Documents/Projects/Sokol/sokol/packages",
+			"/Users/sanya/Documents/Projects/Sokol/sokol",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"kendo.",
+			"UsersProvider",
+			"Users",
+			"$filter",
+			"assets.core.js",
+			"headerJs",
+			"users",
+			"editable",
+			"Users",
+			"controller",
+			"pristine",
+			"ngEditable",
+			"ngEditableSelect",
+			"hide",
+			"tmpRoles",
+			"tmpGroups",
+			"changeTheme",
+			"authenticated",
+			"schemaKey",
+			"global.authenticated",
+			"ignore",
+			"public",
+			"articleForm",
+			"edit-submit",
+			"mean",
+			"edit-submit",
+			"sub",
+			"subm",
+			"sub",
+			"instagram_container",
+			"14",
+			"66669",
+			"666699",
+			"666",
+			"font-size",
+			"body",
+			"instagram",
+			"header",
+			"fitVids",
+			"e",
+			"showImage",
+			"cfsDownloadButton",
+			"imageList",
+			"fileHandler",
+			"cfs",
+			"fileHandler",
+			"hasMultiplePages",
+			"item",
+			"subHandle",
+			"item_edito",
+			"pagination-centered",
+			"pull-right",
+			"find",
+			"884499",
+			"a55bb7",
+			"btn-success",
+			"fileCloseImage",
+			"of",
+			"number",
+			"images",
+			"close",
+			"clo",
+			"images",
+			"08C",
+			"='",
+			"wrap",
+			"word wrap",
+			"word",
+			"length",
+			"icon",
+			"add_element",
+			"16px",
+			"constructor_wrapper",
+			"element",
+			"tagstags",
+			"tags",
+			"el",
+			"btn_element",
+			"title",
+			"container-anons",
+			"$.post",
+			"back_flip",
+			"coner",
+			"add_element",
+			"pult",
+			"image",
+			"	Discussion:\n	- You used the technique of F.R. in order to extract the main points of the material in a way that makes sense to you.\n	- Actively engaged with the material in such a way as to generate questions and ideas, as opposed to passively reading.",
+			"	Discussion:\n	- You used the technique of F.R. in order to extract the main points of the material in a way that makes sense to you.\n	- Actively engaged with the material in such a way as to generate questions and ideas, as opposed to passively reading.\n	",
+			"Look"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"a169a2",
+			"845385"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".jshintrc",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										202,
+										208
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"line_numbers": false,
+							"output_tag": 1,
+							"remote_loading": false,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "packages/contrib/mean-admin/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								868,
+								937
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "packages/contrib/mean-admin/public/controllers/users.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								517,
+								517
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "config/assets.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								505,
+								505
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 32.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"project": "sokol.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/alex_kuzovlev/Sites/node/lastile/la-stile.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 370.0,
+		"selected_items":
+		[
+		],
+		"width": 742.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
