@@ -5,7 +5,7 @@
 
 <nav class="main-nav clearfix">
     <a class="back-button icon-arrow-left" href="{{@blog.url}}">Главная</a>
-    <a class="subscribe-button icon-feed" href="{{@blog.url}}/rss/">Подписка</a>
+    {{!-- <a class="subscribe-button icon-feed" href="{{@blog.url}}/rss/">Подписка</a> --}}
 </nav>
 
 <main class="content" role="main">
@@ -17,7 +17,7 @@
         <header class="post-header">
             <h1 class="post-title">{{title}}</h1>
             <section class="post-meta">
-                <time class="post-date" datetime="{{date format='YYYY-MM-DD'}}">{{date format="DD MMMM YYYY"}}</time> {{tags prefix=" Теги: "}}
+                <time class="post-date" datetime="{{date format='YYYY-MM-DD'}}">{{date format="DD MMMM YYYY"}}</time> {{tags prefix=" теги: "}}
             </section>
         </header>
 
@@ -42,7 +42,7 @@
                 {{#if bio}}
                     <p>{{bio}}</p>
                 {{else}}
-                    <p>Также читайте <a href="{{url}}">посты</a> этого автора.</p>
+                    <p><a href="{{url}}">Посты</a> этого автора.</p>
                 {{/if}}
                 <div class="author-meta">
                     {{#if location}}<span class="author-location icon-location">{{location}}</span>{{/if}}

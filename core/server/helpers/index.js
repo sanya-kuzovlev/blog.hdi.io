@@ -17,6 +17,8 @@ var downsize        = require('downsize'),
     scriptTemplate  = _.template('<script src="<%= source %>?v=<%= version %>"></script>'),
     isProduction    = process.env.NODE_ENV === 'production',
 
+    moment.lang('ru');
+
     coreHelpers     = {},
     registerHelpers,
 
